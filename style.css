@@ -61,9 +61,8 @@ p {
 
 .container-form {
     display:flex;
-    width:100%;
-    padding-left:10%;
-    padding-right:10%;
+    width:80%;
+    margin:0 auto;
     height:50vh;
 }
 
@@ -120,8 +119,8 @@ input[type=submit] {
 
    .container-form {
         height:auto;
-        width:100%;
         margin-left:8%;
+        width:auto !important;
         padding:0;
     }
 
@@ -184,6 +183,7 @@ input[type=submit] {
     .container-text {
         width:50%;
         margin-left:8%;
+        padding:0;
         height:auto;
                 
     }
